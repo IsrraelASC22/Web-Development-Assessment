@@ -1,0 +1,44 @@
+h1{
+    font-family:Helvetica,Arial,sans-serif;
+    text-shadow: -2px 2px gray;
+  }
+  h2{
+    font-family:Helvetica,Arial,sans-serif;
+    text-shadow: -2px 2px gray;
+  }
+  h3{
+    font-family:Helvetica,Arial,sans-serif;
+    text-shadow: -2px 2px gray;
+  }
+  h4{
+    font-family:Helvetica,Arial,sans-serif;
+    text-shadow: -2px 2px gray;
+  } 
+  p{
+    font-family:"Courier New",sans-serif;
+    font-style:bold
+  }
+.floatLimg{
+  float:none;
+  height:50%;
+  width:50%;
+}
+.floatLText{
+  float:left;
+  height:20%;
+  width:20%;
+}
+.noneFloat{
+  float:none;
+  height:20%;
+  width:20%;
+}
+.floatRText{
+  float:right;
+  height:20%;
+  width:20%;
+}
+.LfloatUniversal{
+  float:none;
+  visibility: hidden;
+}
